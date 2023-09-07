@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.li-container {
+  list-style-type: none;
+  height: 100px;
+  width: 280px;
+  border: 2px solid #b5b7c4;
+  border-radius: 12px;
+  margin-right: 18px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+}
+.paragraph {
+  color: #b5b7c4;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+}
+.data {
+  border: none;
+  background-color: transparent;
+}
